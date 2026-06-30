@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0031/krp/v1/juan/23
+seq: 23
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鐔津集後叙文道之所寓也離乎道而不合公論謂之文可乎宋明教大師究最上乘佩傳法印為法亡軀不顧人或詆之擠之未嘗色喪氣沮真可為一代師表也以文章自任著書輔教僅數十萬言總曰鐔津集其議論抑揚也神變雄偉如怒猊抉石金翅擘海非韓盧斥鷃可形象乎哉其融㑹貫通也浩博汪洋如江海如溟渤非澗沚溝渠可涯涘乎哉時大臣既敬服而讃誦之天子又褒寵而旌號之文不合公論能致此乎嘉禾蔤庵禪師瑩然璠講師愍其板失募同志緣兼傾已槖重梓流行俾大師𢎞道之心千古不死也二師之勤可嘉可尚功既命源識嵗月于左嗚呼道固寓於文因其文而於心傳之絶者續道之晦者明其誰乎興言至此自益顔汗𢎞治十二年嵗次己未陽月初吉雲山廣源識
+  hash: sha256:20885fa05ff2a06faf2fb81a16d64ea471456b9ee818bb769e67fd324e91de79
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0031_WYG_023-1a, image: WYG1091/WYG1091-0639a.png}
+metadata:
+  title: 鐔津集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:51:05.336097'
+  juan_title: 後叙
+  source:
+    repository: kanripo
+    path: KR4d0031/KR4d0031_023.txt
+hash: sha256:9652140a7bb88888882adc887276d0f97b910d9ade54ba124c63e97e38d8590a
