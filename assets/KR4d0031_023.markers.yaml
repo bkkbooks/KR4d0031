@@ -7,6 +7,7 @@ markers:
 
       ', id: KR4d0031_krp_023-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4d0031_WYG_023-1a01}
+  - {type: substitution, offset: 4, original: 叙, replacement: 敘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16962}}
   - {type: 'kr:newline', offset: 5, content: '
 
       ', id: KR4d0031_krp_023-bkkkrnewl2}
@@ -15,6 +16,7 @@ markers:
 
       ', id: KR4d0031_krp_023-bkkkrnewl3}
   - {type: line-break, offset: 26, content: '', id: KR4d0031_WYG_023-1a03}
+  - {type: substitution, offset: 32, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: 'kr:newline', offset: 47, content: '
 
       ', id: KR4d0031_krp_023-bkkkrnewl4}
@@ -31,6 +33,7 @@ markers:
 
       ', id: KR4d0031_krp_023-bkkkrnewl7}
   - {type: line-break, offset: 110, content: '', id: KR4d0031_WYG_023-1a07}
+  - {type: substitution, offset: 113, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: 'kr:newline', offset: 131, content: '
 
       ', id: KR4d0031_krp_023-bkkkrnewl8}
@@ -48,6 +51,7 @@ markers:
 
       ', id: KR4d0031_krp_023-bkkkrnewl11}
   - {type: line-break, offset: 172, content: '', id: KR4d0031_WYG_023-1b02}
+  - {type: substitution, offset: 183, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19870}}
   - {type: 'kr:newline', offset: 193, content: '
 
       ', id: KR4d0031_krp_023-bkkkrnewl12}
@@ -71,4 +75,4 @@ markers:
 
       ', id: KR4d0031_krp_023-bkkkrnewl16}
   back: []
-hash: sha256:2fc83b133a012f6760558e753f49317bd927c81570cb03022261921c9993bef6
+hash: sha256:99ab77edb203d98caa36538bcc34075fee00779474e30faa8007f85682f6c6ce
